@@ -9,6 +9,7 @@ st | status | Status.
 co | checkout | Checkout.
 ci | commit | Commit.
 br | branch | Branch.
+cp | cherry-pick| Cherry pick.
 shs | stash save | Save changes to stash.
 sha | stash apply | Apply changes from stash.
 shsh | stash show -p | Show differences for stashed changes.

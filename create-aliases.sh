@@ -7,6 +7,7 @@ aliases=(
     ["co"]="checkout"
     ["ci"]="commit"
     ["br"]="branch"
+    ["cp"]="cherry-pick"
     ["shs"]="stash save"
     ["sha"]="stash apply"
     ["shsh"]="stash show -p"
