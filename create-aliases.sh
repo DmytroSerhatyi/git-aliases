@@ -12,7 +12,7 @@ aliases=(
     ["sha"]="stash apply"
     ["shsh"]="stash show -p"
     ["shl"]="stash list"
-    ["logf"]="log --oneline --all --graph --decorate"
+    ["lf"]="log --oneline --all --graph --decorate"
 )
 
 for i in "${!aliases[@]}"
