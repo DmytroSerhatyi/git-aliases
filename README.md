@@ -18,4 +18,5 @@ lf | log --oneline --all --graph --decorate | Show history tree for all branches
 
 There aren't aliases for some useful and frequently used commands ("reset --hard", "stash drop", "stash pop") to avoid some negative consequences.
 
-Run `create-aliases.sh` to create aliases automatically.
+Run `create-aliases.sh` to create aliases automatically.  
+Run `delete-aliases.sh` to delete aliases automatically.
