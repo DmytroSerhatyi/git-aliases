@@ -11,4 +11,5 @@ aliases=(
     ["shsh"]="stash show -p"
     ["shl"]="stash list"
     ["lf"]="log --oneline --all --graph --decorate"
+    ["rp"]="remote prune"
 )

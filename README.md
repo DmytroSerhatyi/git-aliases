@@ -15,6 +15,7 @@ sha | stash apply | Apply changes from stash.
 shsh | stash show -p | Show differences for stashed changes.
 shl | stash list | Show all stashed changes.
 lf | log --oneline --all --graph --decorate | Show history tree for all branches. Stands for "log full".
+rp | remote prune | Prune remote branches.
 
 There aren't aliases for some useful and frequently used commands ("reset --hard", "stash drop", "stash pop") to avoid some negative consequences.
 
