@@ -6,6 +6,7 @@ Alias | Command | Description
 --- | --- | ---
 aliases | config --get-regexp alias | Show all aliases.
 st | status | Status.
+ft | fetch | Fetch.
 co | checkout | Checkout.
 ci | commit | Commit.
 br | branch | Branch.

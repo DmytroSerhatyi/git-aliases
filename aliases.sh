@@ -2,6 +2,7 @@ declare -A aliases
 aliases=(
     ["aliases"]="config --get-regexp alias"
     ["st"]="status"
+    ["ft"]="fetch"
     ["co"]="checkout"
     ["ci"]="commit"
     ["br"]="branch"
