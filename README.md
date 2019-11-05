@@ -7,6 +7,8 @@ Alias | Command | Description
 aliases | config --get-regexp alias | Show all aliases.
 st | status | Status.
 ft | fetch | Fetch.
+ftp | fetch -p | Fetch and prune.
+pp | pull -p | Pull and prune.
 co | checkout | Checkout.
 ci | commit | Commit.
 br | branch | Branch.
